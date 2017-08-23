@@ -19,7 +19,7 @@ namespace XConcepThreee3.UWP
         {
             get
             {
-                if (!string.IsNullOrEmpty(directoryDB))
+                if (string.IsNullOrEmpty(directoryDB))
                 {
                     directoryDB = ApplicationData.Current.LocalFolder.Path;
                 }

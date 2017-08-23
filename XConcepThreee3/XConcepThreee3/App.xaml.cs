@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
+using XConcepThreee3.Pages;
 
 namespace XConcepThreee3
 {
@@ -13,7 +14,7 @@ namespace XConcepThreee3
         {
             InitializeComponent();
 
-            MainPage = new XConcepThreee3.MainPage();
+            MainPage = new NavigationPage(new HomePage());
         }
 
         protected override void OnStart()

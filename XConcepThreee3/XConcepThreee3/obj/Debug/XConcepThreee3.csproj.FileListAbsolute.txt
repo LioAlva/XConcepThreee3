@@ -11,7 +11,11 @@ G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepTh
 G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\bin\Debug\Xamarin.Forms.Xaml.xml
 G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.MainPage.xaml.g.cs
 G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.App.xaml.g.cs
+G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.Pages.HomePage.xaml.g.cs
+G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.Pages.EditPage.xaml.g.cs
 G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.dll
 G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.pdb
+G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.dll.mdb
+G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\bin\Debug\XConcepThreee3.dll.mdb
 G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\obj\Debug\XConcepThreee3.dll.mdb
 G:\CURSOS_2017_1\Xamarin\CURSO ECOMMERCE XAMARIN EJEM 2\XConcepThreee3\XConcepThreee3\XConcepThreee3\bin\Debug\XConcepThreee3.dll.mdb

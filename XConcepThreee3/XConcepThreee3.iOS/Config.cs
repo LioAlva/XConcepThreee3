@@ -17,7 +17,7 @@ namespace XConcepThreee3.iOS
         public string DirectoryDB
         {
             get {
-                if (!string.IsNullOrEmpty(directoryDB)) {
+                if (string.IsNullOrEmpty(directoryDB)) {
                     var directorio = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
                     directoryDB = System.IO.Path.Combine(directorio,"..","Library");
                 }

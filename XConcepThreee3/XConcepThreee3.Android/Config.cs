@@ -7,7 +7,6 @@ namespace XConcepThreee3.Droid
 {
     public class Config : IConfig
     {
-
         private string directoryDB;
 
         private ISQLitePlatform platform;
@@ -16,7 +15,7 @@ namespace XConcepThreee3.Droid
         {
             get
             {
-                if (!string.IsNullOrEmpty(directoryDB))
+                if (string.IsNullOrEmpty(directoryDB))
                 {
                     directoryDB = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal); 
                 }
